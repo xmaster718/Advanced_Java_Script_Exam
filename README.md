@@ -2,7 +2,7 @@
 
 Мини-проект по предмету «Advanced JavaScript», Тема 5: проверка пароля по базе утечек без раскрытия пароля.
 
-🔗 **Демо:** https:/xmaster718/.github.io/Advanced_Java_Script_Exam/
+🔗 **Демо:** https://xmaster718.github.io/Advanced_Java_Script_Exam/
 
 ## Что проверяет проект
 Попал ли пароль в известные утечки. Используется приём **k-anonymity**:
